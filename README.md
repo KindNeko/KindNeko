@@ -3,7 +3,7 @@
 <h3 align="center">𝘐 𝘢𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘰𝘧 𝘗𝘦𝘯𝘻𝘢 𝘚𝘵𝘢𝘵𝘦 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺, 𝘍𝘢𝘤𝘶𝘭𝘵𝘺 𝘰𝘧 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘢𝘯𝘥 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨.</h3>
 
 <div id= "about">    
-  <h3 align="left"> <img src="https://github.com/KindNeko/KindNeko/blob/main/res/avatar.svg" height="32"/>  Ａｂｏｕｔ ｍｅ </h3> 
+  <h3 align="left"> <img src="https://github.com/KindNeko/KindNeko/blob/main/res/avatar.svg" height="25"/>  Ａｂｏｕｔ ｍｅ </h3> 
   <ul> 
     <li>I’m a begginer web-developer specializing in designing responsive sites. Currently, I’m focusing on learning web technologies, gaining experience, and creating my own projects. </li>
     <li>I am interested in Backend development. </li>
