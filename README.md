@@ -9,7 +9,7 @@
     <li>𝘐'𝘮 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵. </li>
   </ul>
 
-  <h4 align="left"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨: </h4> 
+  <h4 align="left"> 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 𝘢𝘯𝘥 𝘛𝘰𝘰𝘭𝘴: </h4> 
   <strong> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
