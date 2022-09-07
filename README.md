@@ -5,8 +5,8 @@
 <div id= "about">    
   <h3 align="left"> <img src="https://github.com/KindNeko/KindNeko/blob/main/res/avatar.svg" height="25"/>  Ａｂｏｕｔ ｍｅ </h3> 
   <ul> 
-    <li>I’m a begginer web-developer specializing in designing responsive sites. Currently, I’m focusing on learning web technologies, gaining experience, and creating my own projects. </li>
-    <li>I am interested in Backend development. </li>
+    <li>𝘐’𝘮 𝘢 𝘣𝘦𝘨𝘨𝘪𝘯𝘦𝘳 𝘸𝘦𝘣-𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘪𝘯𝘨 𝘪𝘯 𝘥𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘷𝘦 𝘴𝘪𝘵𝘦𝘴. 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺, 𝘐’𝘮 𝘧𝘰𝘤𝘶𝘴𝘪𝘯𝘨 𝘰𝘯 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘸𝘦𝘣 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴, 𝘨𝘢𝘪𝘯𝘪𝘯𝘨 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦, 𝘢𝘯𝘥 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘮𝘺 𝘰𝘸𝘯 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴. </li>
+    <li>𝘐'𝘮 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵. </li>
   </ul>
 
   <h4 align="left"> My skills: </h4> 
