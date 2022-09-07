@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </strong>
-
+<img src="[![codewars](https://www.codewars.com/users/KindNeko/badges/small)](https://www.codewars.com/users/KindNeko)"/>
